@@ -1,18 +1,22 @@
 In Ethiopia, one of the major challenges faced by legal professionals is how they manage case files, court schedules, client communication, and access to legal resources.
 Currently, most of these tasks are handled manually using notebooks, loose paper documents, or messaging apps, which is:-
+      
       .Time-consuming
       .Difficult to organize and retrieve information
       .Prone to missing important court dates or filing deadlines
       .Lacking a centralized, searchable system for Ethiopian legal codes, proclamations, and precedents
       .Inefficient for managing multiple clients and legal documents
+
 In addition, there is no effective reminder system to help lawyers stay on top of their filing deadlines, court hearings, or important legal tasks. This creates stress, reduces productivity, and increases the risk of professional mistakes.
 
 My Solution:
 
 I want to solve this problem by developing a web-based Legal Assistant platform tailored specifically for Ethiopian lawyers. This platform will:
+ 
   .Manage case files and court schedules efficiently in a digital format
   .Organize and store client communication and legal documents in one secure place
   .Provide a searchable library of Ethiopian legal codes, proclamations, and precedents
   .Enable users to set automatic reminders and deadline alerts
   .Improve the overall workflow and reduce reliance on paper-based systems
+
 This system will make legal work more organized, searchable, and manageable—helping legal professionals serve their clients better and with less effort. 
