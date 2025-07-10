@@ -19,4 +19,4 @@ I want to solve this problem by developing a web-based Legal Assistant platform 
   .Enable users to set automatic reminders and deadline alerts
   .Improve the overall workflow and reduce reliance on paper-based systems
 
-This system will make legal work more organized, searchable, and manageable—helping legal professionals serve their clients better and with less effort. 
+
